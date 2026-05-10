@@ -1,5 +1,5 @@
-title: sreenidhi.github.io
-description: Personal site with tips and notes
+title: Sreenidhi
+description: Technical notes, systems debugging, and practical infrastructure writeups.
 theme: minima
 markdown: kramdown
-
+permalink: /posts/:title/
